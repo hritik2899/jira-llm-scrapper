@@ -542,23 +542,3 @@ curl -X POST http://localhost:8000/scrape
 
 # The scraper will automatically resume from the last checkpoint
 ```
-
-## 🤝 Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## 📜 License
-
-This project is for educational purposes as part of a technical assignment.
-
-## 🙏 Acknowledgments
-
-- Apache Software Foundation for providing public Jira access
-- FastAPI framework for modern Python APIs
-- aiohttp for async HTTP capabilities
-
----
-
-**Developed by**: [Your Name]  
-**Assignment Date**: October 26, 2025  
-**Repository**: [Your GitHub URL]
